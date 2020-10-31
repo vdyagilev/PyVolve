@@ -1,2 +1,2 @@
 # PyVolve
-Neural Network Optimization with Evolution 
+Neural Network Optimization thru Evolution 
